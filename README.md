@@ -1,5 +1,5 @@
 
-# 🍽️ Restaurant Orders — End-to-End Data Analysis Project
+# 🍽️ Restaurant Orders - End-to-End Data Analysis Project
 
 ## Project Overview
 
